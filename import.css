@@ -1,0 +1,1594 @@
+/* servicio iptv */
+div.background01 {
+  background-image: url("../img/background01-1.png");
+  background-position: -200px -200px; 
+  background-repeat: no-repeat;
+}
+/* activos */
+table.activos {
+  position: absolute;
+  left: 1362px;
+  top: -30px; }
+table.activos td {
+  vertical-align: middle;
+  padding: 30px 10px 30px 20px;
+  font-size: 1.2em; }
+table.activos td {
+  color: #4E97FE; }
+table.activos td.numero {
+  text-align: center;
+  color: #54A9EA; }
+/* activos */
+  table.activos1 {
+	position: absolute;
+  left: -70px;
+  top: -190px;
+  }
+  table.activos1 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos1 td { color: #00B2FE; }
+  table.activos1 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+   /**/
+   table.activos1_1 {
+  position: absolute;
+  left: -550px;
+  top: 10px;
+  }
+  table.activos1_1 td {
+    vertical-align: middle;
+    padding: 10px 28px 7px 6px;
+    font-size: 1.9em; 
+  }
+  table.activos1_1 td { color: #00B2FE; }
+  table.activos1_1 td.numero {
+    text-align: center;
+    color: #54A9EA;
+  }
+  /**/
+  /**/
+   table.activos1_2 {
+  position: absolute;
+  left: -550px;
+  top: -810px;
+  }
+  table.activos1_2 td {
+    vertical-align: middle;
+    padding: 10px 28px 7px 6px;
+    font-size: 1.9em; 
+  }
+  table.activos1_2 td { color: #00B2FE; }
+  table.activos1_2 td.numero {
+    text-align: center;
+    color: #54A9EA;
+  }
+  /**/
+  table.activos1_3 {
+  position: absolute;
+  left: -1950px;
+  top: 350px;
+  }
+  table.activos1_3 td {
+    vertical-align: middle;
+    padding: 10px 28px 7px 6px;
+    font-size: 1.9em; 
+  }
+  table.activos1_3 td { color: #00B2FE; }
+  table.activos1_3 td.numero {
+    text-align: center;
+    color: #54A9EA;
+  }
+    table.activos2_1 {
+  position: absolute;
+  left: 80px;
+  top: -45px;
+  }
+  table.activos2_1 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_1 td { color: #00B2FE; }
+  table.activos2_1 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+      table.activos2_2 {
+  position: absolute;
+  left: 1000px;
+  top: -45px;
+  }
+  table.activos2_2 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_2 td { color: #00B2FE; }
+  table.activos2_2 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+     table.activos2_3 {
+  position: absolute;
+  left: 80px;
+  top: 350px;
+  }
+  table.activos2_3 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_3 td { color: #00B2FE; }
+  table.activos2_3 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }    
+  table.activos2_4 {
+  position: absolute;
+  left: 1950px;
+  top: -45px;
+  }
+  table.activos2_4 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_4 td { color: #00B2FE; }
+  table.activos2_4 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+  table.activos2_5 {
+  position: absolute;
+  left: 1000px;
+  top: 560px;
+  }
+  table.activos2_5 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_5 td { color: #00B2FE; }
+  table.activos2_5 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }  
+  table.activos2_6 {
+  position: absolute;
+  left: 1000px;
+  top: 250px;
+  }
+  table.activos2_6 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_6 td { color: #00B2FE; }
+  table.activos2_6 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }  
+   table.activos2_7 {
+  position: absolute;
+  left: 1950px;
+  top: 350px;
+  }
+  table.activos2_7 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_7 td { color: #00B2FE; }
+  table.activos2_7 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+  table.activos2_8 {
+  position: absolute;
+  left: 1950px;
+  top: 560px;
+  }
+  table.activos2_8 td {
+    vertical-align: middle;
+    padding: 3px 10px 5px 40px;
+    font-size: 1.2em;
+  }
+  table.activos2_8 td { color: #00B2FE; }
+  table.activos2_8 td.numero {
+    text-align: center;
+    color: #54A9EA; 
+  }
+  table.activos2 {
+	position: absolute;
+	left: -1150px;
+  top: 550px;
+  }
+  table.activos2 td {
+    vertical-align: middle;
+    padding: 10px 28px 7px 6px;
+    font-size: 1.9em; 
+  }
+  table.activos2 td { color: #00B2FE; }
+  table.activos2 td.numero {
+    text-align: center;
+    color: #54A9EA;
+  }
+table.activos3 {
+    position: absolute;
+    left: 10px;
+    top: 10px; 
+  }
+  table.activos3 td {
+    vertical-align: middle;
+    padding: 5px 12px 5px 12px;
+    font-size: 1.1em; 
+  }
+  table.activos3 td { color: #4E97FE; }
+  table.activos3 td.numero {
+    text-align: center;
+    color: #54A9EA; }
+/* activos */
+/* Mensaje Warning */
+table.mensajeWarning {
+  position: absolute;
+  left: 80px;
+  top: 10px; }
+table.mensajeWarning td {
+  vertical-align: middle;
+  padding: 30px 10px 30px 20px;
+  font-size: 1.2em; }
+table.mensajeWarning td {
+  color: #ffcc00; }
+table.mensajeWarning td.numero {
+  text-align: center;
+  color: #54A9EA; }
+/* mensajeWarning */
+/* Mensaje Danger */
+table.mensajeDanger {
+  position: absolute;
+  left: 80px;
+  top: 10px; }
+table.mensajeDanger td {
+  vertical-align: middle;
+  padding: 30px 10px 30px 20px;
+  font-size: 1.2em; }
+table.mensajeDanger td {
+  color: #ff0000; }
+table.mensajeDanger td.numero {
+  text-align: center;
+  color: #54A9EA; }
+/* mensajeDanger */
+div.servicio_iptv img {
+  background-image: url("../img/glowBlue.gif");
+  /*background-image: url("../img/esfera.gif");*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+   }/* activos */
+  /*Pruebas scr ccs*/
+   .tv_ngaps{
+    background-image: url("../img/icon_025.png");
+ }
+/* activos */
+div.servicio_iptv_warning img {
+/* background-image: url("../img/glow.png");*/
+  background-image: url("../img/glowWarning.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+ }
+/* activos */
+div.servicio_iptv_danger img {
+ /* background-image: url("../img/glow.png");*/
+  background-image: url("../img/glowDanger.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+/* nodo 001 */
+div.servicio_iptv_nodo_001 {
+  left: 180px;
+  top: 75px; }
+/* nodo 002 */
+div.servicio_iptv_nodo_002 {
+  left: 768px;
+  top: 75px; }
+/* nodo 003 */
+div.servicio_iptv_nodo_003 {
+  left: -40px;
+  top: 315px; }
+/* nodo 004 */
+div.servicio_iptv_nodo_004 {
+  left: 90px;
+  top: 595px; }
+/* nodo 005 */
+div.servicio_iptv_nodo_005 {
+  left: 470px;
+  top: 670px; }
+/* nodo 006 */
+div.servicio_iptv_nodo_006 {
+  left: 857px;
+  top: 595px; }
+/* nodo 007 */
+div.servicio_iptv_nodo_007 {
+  left: 1010px;
+  top: 315px; }
+/* nodo 008 */
+div.servicio_iptv_nodo_008 {
+  left: 672px;
+  top: 295px; }
+/* nodo 009 */
+div.servicio_iptv_nodo_009 {
+  left: 498px;
+  top: -210px; }
+/* nodo 010 */
+div.servicio_iptv_nodo_010 {
+  left: 847px;
+  top: -210px; }
+  
+  /* nodo 011 */
+div.servicio_iptv_nodo_011 {
+  left: 470px;
+  top: 295px; }
+div.activos_nodo_001 {
+  left: 1580px;
+  top: -18px; }
+div.activos_nodo_002 {
+  left: 1560px;
+  top: 70px; }
+div.mensajeWarning_nodo_001 {
+  left: 0px;
+  top: 10px; }
+  div.mensajeDanger_nodo_001 {
+  left: 0px;
+  top: 10px; }
+/* servicio iptv */
+/* NODOS DE CUBO 001 */
+div.servicio_iptv_punto001 {
+  animation: servicio_iptv_punto001 5s infinite; }
+
+@keyframes servicio_iptv_punto001 {
+  0% {
+    left: 274px;
+    top: 141px; }
+  50% {
+    left: 529px;
+    top: 141px; }
+  100% {
+    left: 529px;
+    top: 237px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.servicio_iptv_punto002 {
+  animation: servicio_iptv_punto002 5s infinite; }
+
+@keyframes servicio_iptv_punto002 {
+  0% {
+    left: 764px;
+    top: 141px; }
+  50% {
+    left: 605px;
+    top: 141px; }
+  100% {
+    left: 605px;
+    top: 237px; } }
+/* NODOS DE CUBO 002 */
+/* NODOS DE CUBO 003 */
+div.servicio_iptv_punto003 {
+  animation: servicio_iptv_punto003 5s infinite; }
+
+@keyframes servicio_iptv_punto003 {
+  0% {
+    left: 130px;
+    top: 373px; }
+  100% {
+    left: 426px;
+    top: 373px; } }
+/* NODOS DE CUBO 003 */
+/* NODOS DE CUBO 004 */
+div.servicio_iptv_punto004 {
+  animation: servicio_iptv_punto004 5s infinite; }
+
+@keyframes servicio_iptv_punto004 {
+  0% {
+    left: 183px;
+    top: 595px; }
+  33% {
+    left: 183px;
+    top: 536px; }
+  66% {
+    left: 481px;
+    top: 536px; }
+  100% {
+    left: 481px;
+    top: 487px; } }
+/* NODOS DE CUBO 004 */
+/* NODOS DE CUBO 005 */
+div.servicio_iptv_punto005 {
+  animation: servicio_iptv_punto005 5s infinite; }
+
+@keyframes servicio_iptv_punto005 {
+  0% {
+    left: 567px;
+    top: 668px; }
+  100% {
+    left: 567px;
+    top: 515px; } }
+/* NODOS DE CUBO 005 */
+/* NODOS DE CUBO 006 */
+div.servicio_iptv_punto006 {
+  animation: servicio_iptv_punto006 5s infinite; }
+
+@keyframes servicio_iptv_punto006 {
+  0% {
+    left: 951px;
+    top: 595px; }
+  33% {
+    left: 951px;
+    top: 536px; }
+  66% {
+    left: 652px;
+    top: 536px; }
+  100% {
+    left: 652px;
+    top: 487px; } }
+/* NODOS DE CUBO 006 */
+/* NODOS DE CUBO 007 */
+div.servicio_iptv_punto007 {
+  animation: servicio_iptv_punto007 5s infinite; }
+
+@keyframes servicio_iptv_punto007 {
+  0% {
+    left: 1008px;
+    top: 373px; }
+  100% {
+    left: 709px;
+    top: 373px; } }
+/* NODOS DE CUBO 007 */
+/* dms */
+div.background02 {
+  background-image: url("../img/background02.png");
+  background-position: 0px -200px; }
+
+/* server 001 */
+div.dms_server_001 {
+  left: 85px;
+  top: 230px; }
+
+/* nodo 001 */
+div.dms_nodo_001 {
+  left: 450px;
+  top: 0px; }
+
+/* nodo 002 */
+div.dms_nodo_002 {
+  left: 800px;
+  top: 178px; }
+
+/* nodo 003 */
+div.dms_nodo_003 {
+  left: 600px;
+  top: 348px; }
+
+/* nodo 004 */
+div.dms_nodo_004 {
+  left: 1000px;
+  top: 525px; }
+
+/* layer 001 */
+div.dms_layer_001 {
+  left: 1480px;
+  top: 250px; }
+
+div.dms_base_001 {
+  left: 1700px;
+  top: 230px; }
+
+/* dms */
+/* NODOS DE CUBO 001 */
+div.dms_punto001 {
+  animation: dms_punto001 7s infinite; }
+
+@keyframes dms_punto001 {
+  0% {
+    left: 150px;
+    top: 277px; }
+  11.1% {
+    left: 215px;
+    top: 277px; }
+  22.2% {
+    left: 215px;
+    top: 137px; }
+  33.3% {
+    left: 321px;
+    top: 137px; }
+  44.4% {
+    left: 321px;
+    top: 45px; }
+  55.5% {
+    left: 1330px;
+    top: 45px; }
+  66.6% {
+    left: 1330px;
+    top: 137px; }
+  77.7% {
+    left: 1437px;
+    top: 137px; }
+  88.8% {
+    left: 1437px;
+    top: 278px; }
+  100% {
+    left: 1710px;
+    top: 278px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.dms_punto002 {
+  animation: dms_punto002 7s infinite; }
+
+@keyframes dms_punto002 {
+  0% {
+    left: 150px;
+    top: 277px; }
+  11.1% {
+    left: 215px;
+    top: 277px; }
+  22.2% {
+    left: 215px;
+    top: 137px; }
+  33.3% {
+    left: 321px;
+    top: 137px; }
+  44.4% {
+    left: 321px;
+    top: 222px; }
+  55.5% {
+    left: 1330px;
+    top: 222px; }
+  66.6% {
+    left: 1330px;
+    top: 137px; }
+  77.7% {
+    left: 1437px;
+    top: 137px; }
+  88.8% {
+    left: 1437px;
+    top: 278px; }
+  100% {
+    left: 1710px;
+    top: 278px; } }
+/* NODOS DE CUBO 002 */
+/* NODOS DE CUBO 003 */
+div.dms_punto003 {
+  animation: dms_punto003 7s infinite; }
+
+@keyframes dms_punto003 {
+  0% {
+    left: 150px;
+    top: 277px; }
+  11.1% {
+    left: 215px;
+    top: 277px; }
+  22.2% {
+    left: 215px;
+    top: 486px; }
+  33.3% {
+    left: 321px;
+    top: 486px; }
+  44.4% {
+    left: 321px;
+    top: 394px; }
+  55.5% {
+    left: 1330px;
+    top: 394px; }
+  66.6% {
+    left: 1330px;
+    top: 486px; }
+  77.7% {
+    left: 1437px;
+    top: 486px; }
+  88.8% {
+    left: 1437px;
+    top: 278px; }
+  100% {
+    left: 1710px;
+    top: 278px; } }
+/* NODOS DE CUBO 003 */
+/* NODOS DE CUBO 004 */
+div.dms_punto004 {
+  animation: dms_punto004 7s infinite; }
+@keyframes dms_punto004 {
+  0% {
+    left: 150px;
+    top: 277px; }
+  11.1% {
+    left: 215px;
+    top: 277px; }
+  22.2% {
+    left: 215px;
+    top: 486px; }
+  33.3% {
+    left: 321px;
+    top: 486px; }
+  44.4% {
+    left: 321px;
+    top: 571px; }
+  55.5% {
+    left: 1330px;
+    top: 571px; }
+  66.6% {
+    left: 1330px;
+    top: 486px; }
+  77.7% {
+    left: 1437px;
+    top: 486px; }
+  88.8% {
+    left: 1437px;
+    top: 278px; }
+  100% {
+    left: 1710px;
+    top: 278px; } }
+/* NODOS DE CUBO 004 */
+/* dezzer */
+div.background03 {
+  background-image: url("../img/background03.png");
+  background-position: 0px -200px; }
+/* server 001 */
+div.dezzer_server_001 {
+  left: 685px;
+  top: 282px; }
+/* nodo 001 */
+div.dezzer_nodo_001 {
+  left: 995px;
+  top: 176px; }
+/* nodo 002 */
+div.dezzer_nodo_002 {
+  left: 995px;
+  top: 408px; }
+/* bonones */
+div.boton {
+  left: 1950px;
+  top: 0px; } 
+/* bonones */
+div.mensaje {
+  left: 0px;
+  top: 50px; }  
+/* dezzer */
+/* NODOS DE CUBO 001 */
+div.dezzer_punto001 {
+  animation: dezzer_punto001 7s infinite; }
+@keyframes dezzer_punto001 {
+  0% {
+    left: 779px;
+    top: 330px; }
+  25% {
+    left: 911px;
+    top: 330px; }
+  50% {
+    left: 911px;
+    top: 220px; }
+  75% {
+    left: 1233px;
+    top: 220px; }
+  100% {
+    left: 1233px;
+    top: 330px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.dezzer_punto002 {
+  animation: dezzer_punto002 7s infinite; }
+@keyframes dezzer_punto002 {
+  0% {
+    left: 779px;
+    top: 330px; }
+  25% {
+    left: 911px;
+    top: 330px; }
+  50% {
+    left: 911px;
+    top: 453px; }
+  75% {
+    left: 1233px;
+    top: 453px; }
+  100% {
+    left: 1233px;
+    top: 330px; } }
+/* NODOS DE CUBO 002 */
+/* manager_batch */
+div.background04 {
+  background-image: url("../img/background04.png");
+  background-position: 0px -200px; }
+/* Batch */
+/* Texto 001a */
+	div.batch_txt_001a{
+		left: 	430px;
+		top: 	10px;
+	}
+	/* Texto 002a */
+	div.batch_txt_002a{
+		left: 	560px;
+		top: 	70px;
+	}
+	/* Texto 003a */
+	div.batch_txt_003a{
+		left: 	560px;
+		top: 	130px;
+	}
+	/* Texto 004a */
+	div.batch_txt_004a{
+		left: 	770px;
+		top: 	70px;
+	}
+	/* Texto 005a */
+	div.batch_txt_005a{
+		left: 	770px;
+		top: 	130px;
+	}
+	/* nodo 006a */
+	div.batch_nodo_006a{
+		left: 	1070px;
+		top: 	20px;
+	}
+	
+	
+	/* Texto 001b */
+	div.batch_txt_001b{
+		left: 	430px;
+		top: 	250px;
+	}
+	/* Texto 002b */
+	div.batch_txt_002b{
+		left: 	560px;
+		top: 	290px;
+	}
+	/* Texto 003b */
+	div.batch_txt_003b{
+		left: 	560px;
+		top: 	350px;
+	}
+	/* Texto 004b */
+	div.batch_txt_004b{
+		left: 	560px;
+		top: 	410px;
+	}
+	/* Texto 005b */
+	div.batch_txt_005b{
+		left: 	770px;
+		top: 	290px;
+	}
+	/* Texto 006b */
+	div.batch_txt_006b{
+		left: 	770px;
+		top: 	340px;
+	}
+	/* Texto 007b */
+	div.batch_txt_007b{
+		left: 	770px;
+		top: 	410px;
+	}
+/* nodo 008b */
+	div.batch_nodo_008b{
+		left: 	1070px;
+		top: 	280px;
+	}
+	/* Texto 009b */
+	div.batch_txt_009b{
+		left: 	230px;
+		top: 	60px;
+	}
+	/* Texto 001c */
+	div.batch_txt_001c{
+		left: 	430px;
+		top: 	500px;
+	}
+	/* Texto 002c */
+	div.batch_txt_002c{
+		left: 	560px;
+		top: 	560px;
+	}
+	/* Texto 003c */
+	div.batch_txt_003c{
+		left: 	560px;
+		top: 	620px;
+	}
+	/* Texto 004c */
+	div.batch_txt_004c{
+		left: 	560px;
+		top: 	680px;
+	}
+	/* Texto 005c */
+	div.batch_txt_005c{
+		left: 	770px;
+		top: 	560px;
+	}
+	/* Texto 006c */
+	div.batch_txt_006c{
+		left: 	770px;
+		top: 	610px;
+	}
+	/* Texto 007c */
+	div.batch_txt_007c{
+		left: 	770px;
+		top: 	670px;
+	}
+ /* nodo 008c */
+	div.batch_nodo_008c{
+		left: 	1070px;
+		top: 	550px;
+	}
+	/* nodo 001d */
+	div.batch_nodo_001d{
+		left: 	1070px;
+		top: 	760px;
+	}
+/* Batch */
+/* NODOS DE CUBO 003 */
+/* NODOS DE CUBO 004 */
+/* dms */
+div.background05 {
+  background-image: url("../img/background05.png");
+  background-position: 0px -200px; }
+/* server 001 */
+div.ott_server_001 {
+  left: 375px;
+  top: 260px; }
+/* nodo 001 */
+div.ott_nodo_001 {
+  left: 760px;
+  top: -38px; }
+/* nodo 002 */
+div.ott_nodo_002 {
+  left: 760px;
+  top: 162px; }
+/* nodo 003 */
+div.ott_nodo_003 {
+  left: 760px;
+  top: 364px; }
+/* nodo 004 */
+div.ott_nodo_004 {
+  left: 760px;
+  top: 565px; }
+/* nodo 005 */
+div.ott_nodo_005 {
+  left: 1150px;
+  top: -38px; }
+/* nodo 006 */
+div.ott_nodo_006 {
+  left: 1150px;
+  top: 162px; }
+/* nodo 007 */
+div.ott_nodo_007 {
+  left: 1150px;
+  top: 364px; }
+/* nodo 008 */
+div.ott_nodo_008 {
+  left: 1150px;
+  top: 565px; }
+/* dms */
+/* NODOS DE CUBO 001 */
+div.ott_punto001 {
+  animation: ott_punto001 7s infinite; }
+
+@keyframes ott_punto001 {
+  0% {
+    left: 465px;
+    top: 308px; }
+  25% {
+    left: 621px;
+    top: 308px; }
+  50% {
+    left: 621px;
+    top: 7px; }
+  75% {
+    left: 1392px;
+    top: 7px; }
+  100% {
+    left: 1392px;
+    top: 308px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.ott_punto002 {
+  animation: ott_punto002 7s infinite; }
+@keyframes ott_punto002 {
+  0% {
+    left: 465px;
+    top: 308px; }
+  25% {
+    left: 621px;
+    top: 308px; }
+  50% {
+    left: 621px;
+    top: 208px; }
+  75% {
+    left: 1392px;
+    top: 208px; }
+  100% {
+    left: 1392px;
+    top: 308px; } }
+/* NODOS DE CUBO 002 */
+/* NODOS DE CUBO 003 */
+div.ott_punto003 {
+  animation: ott_punto003 7s infinite; }
+@keyframes ott_punto003 {
+  0% {
+    left: 465px;
+    top: 308px; }
+  25% {
+    left: 621px;
+    top: 308px; }
+  50% {
+    left: 621px;
+    top: 409px; }
+  75% {
+    left: 1392px;
+    top: 409px; }
+  100% {
+    left: 1392px;
+    top: 308px; } }
+/* NODOS DE CUBO 003 */
+/* NODOS DE CUBO 004 */
+div.ott_punto004 {
+  animation: ott_punto004 7s infinite; }
+@keyframes ott_punto004 {
+  0% {
+    left: 465px;
+    top: 308px; }
+  25% {
+    left: 621px;
+    top: 308px; }
+  50% {
+    left: 621px;
+    top: 609px; }
+  75% {
+    left: 1392px;
+    top: 609px; }
+  100% {
+    left: 1392px;
+    top: 308px; } }
+/* NODOS DE CUBO 004 */
+/* iptv */
+div.background06 {
+  background-image: url("../img/background06.png");
+  background-position: 0px -200px; }
+/* server 001 */
+div.iptv_server_001 {
+  left: 0px;
+  top: 260px; }
+/* nodo 001 */
+div.iptv_nodo_001 {
+  left: 170px;
+  top: -8px; }
+/* nodo 002 */
+div.iptv_nodo_002 {
+  left: 170px;
+  top: 102px; }
+/* nodo 003 */
+div.iptv_nodo_003 {
+  left: 170px;
+  top: 318px; }
+/* nodo 004 */
+div.iptv_nodo_004 {
+  left: 170px;
+  top: 427px; }
+/* nodo 005 */
+div.iptv_nodo_005 {
+  left: 350px;
+  top: -8px; }
+/* nodo 006 */
+div.iptv_nodo_006 {
+  left: 350px;
+  top: 102px; }
+/* nodo 007 */
+div.iptv_nodo_007 {
+  left: 350px;
+  top: 210px; }
+
+/* nodo 008 */
+div.iptv_nodo_008 {
+  left: 350px;
+  top: 318px; }
+
+/* nodo 009 */
+div.iptv_nodo_009 {
+  left: 350px;
+  top: 427px; }
+
+/* nodo 010 */
+div.iptv_nodo_010 {
+  left: 350px;
+  top: 535px; }
+
+/* nodo 011 */
+div.iptv_nodo_011 {
+  left: 550px;
+  top: -8px; }
+
+/* nodo 012 */
+div.iptv_nodo_012 {
+  left: 550px;
+  top: 102px; }
+
+/* nodo 013 */
+div.iptv_nodo_013 {
+  left: 550px;
+  top: 210px; }
+
+/* nodo 014 */
+div.iptv_nodo_014 {
+  left: 550px;
+  top: 318px; }
+
+/* nodo 015 */
+div.iptv_nodo_015 {
+  left: 550px;
+  top: 427px; }
+
+/* nodo 016 */
+div.iptv_nodo_016 {
+  left: 550px;
+  top: 535px; }
+
+/* nodo 017 */
+div.iptv_nodo_017 {
+  left: 750px;
+  top: -8px; }
+
+/* nodo 018 */
+div.iptv_nodo_018 {
+  left: 750px;
+  top: 102px; }
+
+/* nodo 019 */
+div.iptv_nodo_019 {
+  left: 750px;
+  top: 318px; }
+
+/* nodo 020 */
+div.iptv_nodo_020 {
+  left: 750px;
+  top: 427px; }
+
+/* nodo 021 */
+div.iptv_nodo_021 {
+  left: 940px;
+  top: -8px; }
+
+/* nodo 022 */
+div.iptv_nodo_022 {
+  left: 940px;
+  top: 102px; }
+
+/* nodo 023 */
+div.iptv_nodo_023 {
+  left: 940px;
+  top: 318px; }
+
+/* nodo 024 */
+div.iptv_nodo_024 {
+  left: 940px;
+  top: 427px; }
+
+/* nodo 025 */
+div.iptv_nodo_025 {
+  left: 1150px;
+  top: -8px; }
+
+/* nodo 026 */
+div.iptv_nodo_026 {
+  left: 1150px;
+  top: 102px; }
+
+/* nodo 027 */
+div.iptv_nodo_027 {
+  left: 1150px;
+  top: 210px; }
+
+/* nodo 028 */
+div.iptv_nodo_028 {
+  left: 1150px;
+  top: 318px; }
+
+/* nodo 029 */
+div.iptv_nodo_029 {
+  left: 1150px;
+  top: 427px; }
+
+/* nodo 030 */
+div.iptv_nodo_030 {
+  left: 1150px;
+  top: 535px; }
+
+/* nodo 031 */
+div.iptv_nodo_031 {
+  left: 1370px;
+  top: -8px; }
+
+/* nodo 032 */
+div.iptv_nodo_032 {
+  left: 1370px;
+  top: 102px; }
+
+/* nodo 033 */
+div.iptv_nodo_033 {
+  left: 1370px;
+  top: 210px; }
+
+/* nodo 034 */
+div.iptv_nodo_034 {
+  left: 1370px;
+  top: 318px; }
+
+/* nodo 035 */
+div.iptv_nodo_035 {
+  left: 1370px;
+  top: 427px; }
+
+/* nodo 036 */
+div.iptv_nodo_036 {
+  left: 1370px;
+  top: 535px; }
+
+/* nodo 037 */
+div.iptv_nodo_037 {
+  left: 1550px;
+  top: -8px; }
+
+/* nodo 038 */
+div.iptv_nodo_038 {
+  left: 1550px;
+  top: 102px; }
+
+/* nodo 039 */
+div.iptv_nodo_039 {
+  left: 1550px;
+  top: 318px; }
+
+/* nodo 040 */
+div.iptv_nodo_040 {
+  left: 1550px;
+  top: 427px; }
+
+/* iptv */
+/* NODOS DE CUBO 001 */
+div.iptv_punto001 {
+  animation: iptv_punto001 7s infinite; }
+
+@keyframes iptv_punto001 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 37px; }
+  75% {
+    left: 1729px;
+    top: 37px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.iptv_punto002 {
+  animation: iptv_punto002 7s infinite; }
+
+@keyframes iptv_punto002 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 147px; }
+  75% {
+    left: 1729px;
+    top: 147px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 002 */
+/* NODOS DE CUBO 003 */
+div.iptv_punto003 {
+  animation: iptv_punto003 7s infinite; }
+
+@keyframes iptv_punto003 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 255px; }
+  75% {
+    left: 1729px;
+    top: 255px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 003 */
+/* NODOS DE CUBO 004 */
+div.iptv_punto004 {
+  animation: iptv_punto004 7s infinite; }
+
+@keyframes iptv_punto004 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 363px; }
+  75% {
+    left: 1729px;
+    top: 363px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 004 */
+/* NODOS DE CUBO 005 */
+div.iptv_punto005 {
+  animation: iptv_punto005 7s infinite; }
+
+@keyframes iptv_punto005 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 471px; }
+  75% {
+    left: 1729px;
+    top: 471px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 005 */
+/* NODOS DE CUBO 006 */
+div.iptv_punto006 {
+  animation: iptv_punto006 7s infinite; }
+
+@keyframes iptv_punto006 {
+  0% {
+    left: 95px;
+    top: 309px; }
+  25% {
+    left: 141px;
+    top: 309px; }
+  50% {
+    left: 141px;
+    top: 579px; }
+  75% {
+    left: 1729px;
+    top: 579px; }
+  100% {
+    left: 1729px;
+    top: 310px; } }
+/* NODOS DE CUBO 006 */
+/* manager_batch */
+div.background07 {
+  background-image: url("../img/background07.png");
+  background-position: 0px -200px; }
+
+/* server 001 */
+div.manager_server_001 {
+  left: 560px;
+  top: 261px; }
+
+/* nodo 001 */
+div.manager_nodo_001 {
+  left: 845px;
+  top: 164px; }
+
+/* nodo 002 */
+div.manager_nodo_002 {
+  left: 1049px;
+  top: 164px; }
+
+/* nodo 003 */
+div.manager_nodo_003 {
+  left: 845px;
+  top: 368px; }
+
+/* nodo 004 */
+div.manager_nodo_004 {
+  left: 1049px;
+  top: 368px; }
+
+/* manager_batch */
+/* NODOS DE CUBO 001 */
+div.manager_punto001 {
+  animation: manager_punto001 7s infinite; }
+
+@keyframes manager_punto001 {
+  0% {
+    left: 655px;
+    top: 310px; }
+  25% {
+    left: 795px;
+    top: 310px; }
+  50% {
+    left: 795px;
+    top: 209px; }
+  75% {
+    left: 1205px;
+    top: 209px; }
+  100% {
+    left: 1205px;
+    top: 308px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.manager_punto002 {
+  animation: manager_punto002 7s infinite; }
+
+@keyframes manager_punto002 {
+  0% {
+    left: 655px;
+    top: 310px; }
+  25% {
+    left: 795px;
+    top: 310px; }
+  50% {
+    left: 795px;
+    top: 412px; }
+  75% {
+    left: 1205px;
+    top: 412px; }
+  100% {
+    left: 1205px;
+    top: 308px; } }
+/* NODOS DE CUBO 002 */
+/* dezzer */
+div.background08 {
+  background-image: url("../img/background08.png");
+  background-position: 0px -200px; }
+
+/* server 001 */
+div.ngapps_server_001 {
+  left: 685px;
+  top: 282px; }
+
+/* nodo 001 */
+div.ngapps_nodo_001 {
+  left: 1020px;
+  top: 176px; }
+
+/* nodo 002 */
+div.ngapps_nodo_002 {
+  left: 1020px;
+  top: 408px; }
+
+/* dezzer */
+/* NODOS DE CUBO 001 */
+div.ngapps_punto001 {
+  animation: ngapps_punto001 7s infinite; }
+
+@keyframes ngapps_punto001 {
+  0% {
+    left: 779px;
+    top: 330px; }
+  25% {
+    left: 911px;
+    top: 330px; }
+  50% {
+    left: 911px;
+    top: 220px; }
+  75% {
+    left: 1233px;
+    top: 220px; }
+  100% {
+    left: 1233px;
+    top: 330px; } }
+/* NODOS DE CUBO 001 */
+/* NODOS DE CUBO 002 */
+div.ngapps_punto002 {
+  animation: ngapps_punto002 7s infinite; }
+
+@keyframes ngapps_punto002 {
+  0% {
+    left: 779px;
+    top: 330px; }
+  25% {
+    left: 911px;
+    top: 330px; }
+  50% {
+    left: 911px;
+    top: 453px; }
+  75% {
+    left: 1233px;
+    top: 453px; }
+  100% {
+    left: 1233px;
+    top: 330px; } }
+/* NODOS DE CUBO 002 */
+
+/* Cluster */
+div.background11 {
+  background-image: url("../img/background11.png");
+  background-position: 0px -200px; }
+
+
+/* cluster */
+	/* txt 001 */
+	div.cluster_txt_001{
+		left: 	300px;
+		top: 	200px;
+	}
+/* txt 002 */
+	div.cluster_txt_002{
+		left: 	300px;
+		top: 	275px;
+	}
+	/* txt 003 */
+	div.cluster_txt_003{
+		left: 	300px;
+		top: 	350px;
+	}
+	/* txt 004 */
+	div.cluster_txt_004{
+		left: 	300px;
+		top: 	420px;
+	}
+	/* txt 005 */
+	div.cluster_txt_005{
+		left: 	300px;
+		top: 	495px;
+	}
+	/* txt 006 */
+	div.cluster_txt_006{
+		left: 	300px;
+		top: 	565px;
+	}
+	/* txt 007 */
+	div.cluster_txt_007{
+		left: 	300px;
+		top: 	640px;
+	}
+	
+	/* txt 008 */
+	div.cluster_txt_008{
+		left: 	500px;
+		top: 	200px;
+	}
+	/* txt 009 */
+	div.cluster_txt_009{
+		left: 	500px;
+		top: 	275px;
+	}
+	/* txt 010 */
+	div.cluster_txt_010{
+		left: 	500px;
+		top: 	350px;
+	}
+	/* txt 011 */
+	div.cluster_txt_011{
+		left: 	500px;
+		top: 	420px;
+	}
+	/* txt 012 */
+	div.cluster_txt_012{
+		left: 	500px;
+		top: 	495px;
+	}
+	/* txt 013 */
+	div.cluster_txt_013{
+		left: 	500px;
+		top: 	565px;
+	}
+	/* txt 014 */
+	div.cluster_txt_014{
+		left: 	500px;
+		top: 	640px;
+	}	
+	
+	/* txt 015 */
+	div.cluster_txt_015{
+		left: 	800px;
+		top: 	385px;
+	}
+	
+	/* txt 016 */
+	div.cluster_txt_016{
+		left: 	1270px;
+		top: 	385px;
+	}
+	
+	/* txt 017 */
+	div.cluster_txt_017{
+		left: 	1190px;
+		top: 	690px;
+	}
+	
+	/* txt 018 */
+	div.cluster_txt_018{
+		left: 	1230px;
+		top: 	730px;
+	}
+
+    /* txt 016 */
+  div.cluster_txt_019{
+    left:   1570px;
+    top:  385px;
+  }
+	
+	/* nodo 001 */
+	div.cluster_nodo_001{
+		left: 	820px;
+		top: 	180px;
+	}
+	/* nodo 002 */
+	div.cluster_nodo_002{
+		left: 	1200px;
+		top: 	180px;
+	}
+	/* nodo 003 */
+	div.cluster_nodo_003{
+		left: 	1580px;
+		top: 	180px;
+	}
+	/* nodo 004 */
+	div.cluster_nodo_004{
+		left: 	1210px;
+		top: 	560px;
+	}
+
+/* cluster */
+
+/* NODOS DE CUBO 001 */
+	div.cluster_punto001 { animation: cluster_punto001 5s infinite; }
+	@keyframes cluster_punto001 {
+		   0%  { left:   943px; top: 300px; }
+		  33%  { left:   943px; top: 467px; }
+		  66%  { left:   1325px; top: 467px; }
+		 100%  { left:  1325px; top: 655px; }
+	}
+
+/* NODOS DE CUBO 002 */
+	div.cluster_punto002 { animation: cluster_punto002 5s infinite; }
+	@keyframes cluster_punto002 {
+		   0%  { left:   1325px; top: 300px; }
+		   33%  { left:   1325px; top: 300px; }
+		  66%  { left:   1325px; top: 467px; }
+		 100%  { left:  1325px; top: 655px; }
+	}
+/* NODOS DE CUBO 002 */
+
+/* NODOS DE CUBO 003 */
+	div.cluster_punto003 { animation: cluster_punto003 5s infinite; }
+	@keyframes cluster_punto003 {
+		   0%  { left:   1707px; top: 300px; }
+		  33%  { left:   1707px; top: 467px; }
+		  66%  { left:   1325px; top: 467px; }
+		 100%  { left:  1325px; top: 655px; }
+	}
+/* NODOS DE CUBO 003 */
+
+
+  .green{
+    box-shadow: 35px 20px 60px 20px #117CEE;
+    -moz-box-shadow: 35px 20px 60px 20px #117CEE;
+    -webkit-box-shadow: 35px 20px 60px 20px #117CEE;
+  }
+  .danger{
+    box-shadow: 35px 20px 45px 25px #f30;
+    -moz-box-shadow: 35px 20px 45px 25px #f30;
+    -webkit-box-shadow: 35px 20px 45px 25px #f30;
+  }
+  .warning{
+    box-shadow: 35px 20px 45px 25px #FC0;
+    -moz-box-shadow: 35px 20px 45px 25px #FC0;
+    -webkit-box-shadow: 35px 20px 45px 25px #FC0;
+  }

@@ -1,0 +1,89 @@
+@keyframes changeColorT {
+ /* 0% {background-color: #F8FA89;}
+  50% {background-color: #F7FB01;}
+  100% {background-color: #C5C90D;}*/
+  0% {background-color: rgba(102,255, 255, 0.7);}
+  50% {background-color: rgba(0,255, 255, 0.7);}
+  100% {background-color: rgba(5,212, 212, 0.7);}
+}
+.caja_turqueza {
+  animation-name: changeColorT;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+@keyframes changeColor {
+ /* 0% {background-color: #F8FA89;}
+  50% {background-color: #F7FB01;}
+  100% {background-color: #C5C90D;}*/
+  0% {background-color: rgba(255,255, 0, 0.7);}
+  50% {background-color: rgba(255,255, 35, 0.7);}
+  100% {background-color: rgba(255,255, 105, 0.7);}
+}
+.caja_amarilla {
+  animation-name: changeColor;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+@keyframes changeRed { rgba(0, 0, 0, 0.5);
+  /*0% {background-color: #F5636D;}
+  50% {background-color: #FF0213;}
+  100% {background-color: #9D2129;}*/
+
+  0% {background-color: rgba(255,0, 0, 0.7);}
+  50% {background-color: rgba(255, 2, 19, 0.7);}
+  100% {background-color: rgba(113,11, 13, 0.7);}
+ 
+}
+.caja_roja {
+  animation-name: changeRed;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+
+@keyframes changeRed_ { rgba(0, 0, 0, 0.5);
+  /*0% {background-color: #F5636D;}
+  50% {background-color: #FF0213;}
+  100% {background-color: #9D2129;}*/
+
+  0% {background-color: rgba(255, 2, 19, 0.7);}
+  50% {background-color: rgba(255,0, 0, 0.7);}
+  100% {background-color: rgba(76,0,0,0.7);}
+ 
+}
+.caja_roja1 {
+  animation-name: changeRed_;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+}
+
+@keyframes changeGreen { rgba(0, 0, 0, 0.5);
+  /*0% {background-color: #F5636D;}
+  50% {background-color: #FF0213;}
+  100% {background-color: #9D2129;}*/
+
+  0%   {background-color: rgba(29, 120, 239, 0.8);}
+  50%  {background-color: rgba(0,0, 255, 0.8);} 
+  100% {background-color: rgba(0,64, 225, 0.8);}
+
+}
+.caja_azul {
+  animation-name: changeGreen;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+@keyframes changeGreen { rgba(0, 0, 0, 0.5);
+  /*0% {background-color: #F5636D;}
+  50% {background-color: #FF0213;}
+  100% {background-color: #9D2129;}*/
+
+  0%   {background-color: rgba(29, 120, 239, 0.8);}
+  50%  {background-color: rgba(0,0, 255, 0.8);} 
+  100% {background-color: rgba(0,64, 225, 0.8);}
+
+}
+.caja_verde {
+  animation-name: changeGreen;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+}
