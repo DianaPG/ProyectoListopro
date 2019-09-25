@@ -1,0 +1,12 @@
+/* FONT ICON DE CUBO */
+	@font-face {
+		font-family: 'cube';
+		src: url('../fonts/cube/cube.eot?26456456');
+		src: url('../fonts/cube/cube.eot?26456456#iefix') format('embedded-opentype'),
+		   url('../fonts/cube/cube.woff?26456456') format('woff'),
+		   url('../fonts/cube/cube.ttf?26456456') format('truetype'),
+		   url('../fonts/cube/cube.svg?26456456#cube') format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+/* FONT ICON DE CUBO */

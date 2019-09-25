@@ -1,0 +1,20 @@
+@keyframes changeColor {
+  0%   {background-color: rgba(248,250,137, 0.5);}
+  50%  {background-color: rgba(255,255,0  , 0.5);}
+  100% {background-color: rgba(138,140,8  , 0.5);}
+}
+.caja_amarilla {
+  animation-name: changeColor;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+@keyframes changeRed { rgba(0, 0, 0, 0.5);
+  0%   {background-color: rgba(245, 99, 109, 0.5);}
+  50%  {background-color: rgba(255,  2,  19, 0.5);}
+  100% {background-color: rgba(157, 33,  41, 0.5);}
+}
+.caja_roja {
+  animation-name: changeRed;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}

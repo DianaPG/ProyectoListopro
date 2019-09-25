@@ -1,0 +1,265 @@
+@import url("reset.css");
+@import url("font.css");
+@import url("font_awesome.css");
+body{
+  font-family: Trebuchet MS, verdana, sans-serif;
+  background-color: #000000;
+  color: #FFFFFF;
+  overflow: hidden;
+}
+.warning h4{color: #FFFD38 !important;}
+.danger  h4{color: #FC0D1B !important;}
+div.punto{
+    background-color:#72FFFF;
+    box-shadow: 0 0 50px 5px #117CEE;
+    width: 5.5px;
+    height: 5.5px;
+    border-radius: 15px;
+    position:absolute;
+    z-index: 0;
+}
+/* canvas */
+div.canvas{ 
+	height: 100%;
+	position: relative;
+}
+div.canvas div.obj{
+	position: absolute;
+	display: inline-block;
+	z-index: 1;
+}
+div.canvas div.obj h4{ 
+	text-align: center; 
+	margin-top: 10px;
+	font-size: 1.4em;
+	color: #54A9EA;
+}
+/* info */
+div.canvas div.obj div.info{ 
+	display: inline-block; 
+	margin: 2px 3px;
+}
+	div.canvas div.obj div.info img{ width: 15px; }
+	div.canvas div.obj div.info span{ font-size: 0.9em; }
+	div.canvas div.obj div.info img, div.canvas div.obj div.info span{ vertical-align: middle; }
+/* canvas */
+/* elemento SIGMA */
+div.elm_sigma{
+	position: absolute;
+	top: 	980px;
+	left: 	35px; 
+}
+div.elm_sigma img{ vertical-align: top; }
+div.elm_sigma div{ display: inline-block; }
+div.elm_sigma p{
+	color: #26DCFC;
+	margin: 0;
+	}
+div.elm_sigma span{
+	font-size: 2.2em;
+	color: #26DCFC;
+	}
+/* elemento SIGMA */
+/* header */
+div.datos h3{
+	line-height: 0.1em;
+	padding-top: 20px; 
+	font-size: 2.5em;
+}
+div.datos h4{ 
+	padding-top: 18px;
+	font-size: 1.4em; 
+}
+div.monitoringLogotype{ padding-top:5px; }
+/* header */
+/* navegacion */
+nav {
+	display: block;
+	position:fixed;
+	bottom:0px;
+	width:100%;
+	text-align:center;
+	padding:2%;
+}
+nav div.controlPages{
+    border:1px solid #333333;
+	padding: 10px 0;
+	border-radius:10px; 
+	width: 170px;
+	margin:0 auto; 
+}
+nav div.controlPages .btn-control{
+	border: none; 
+	color: #CCCCCC;
+}
+nav div.controlPages .btn-control i{ font-size: 2.0em; }
+/* navegación */
+.cubes{
+	width: 99.8%;
+	height: 1080px;
+	border: 1px solid #333333;
+	border-radius: 10px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding-top: 1.5%;
+	padding-right: 3%;
+	padding-bottom: 1.5%;
+	padding-left: 3%;
+}
+/* Modal */
+h4.modal-title{
+	color: #FFFFFF;
+	font-size: 2.8em;
+}
+div.modal-body table td{ 
+	vertical-align: middle; 
+	padding: 10px;
+	color: #585858;
+	font-size: 1.8em;
+}
+div.modal-body table td h4{ padding: 5px; }
+div.modal-body table td h4 img{
+	width: 25px;
+	margin-right: 10px;
+}
+div.modal-body table td h4 strong{ 
+	font-weight: bold; 
+	font-size: 2.2em;
+}
+div.modal-body table td h4 img,
+div.modal-body table td h4 strong,
+div.modal-body table td h4 span{
+	vertical-align: middle;
+}
+/* Modal */
+/* pt-perspective */
+.pt-perspective {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	perspective: 1200px;
+	transform-style: preserve-3d;
+}
+.pt-page 
+{   
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	visibility: hidden;
+	overflow: hidden;
+	backface-visibility: hidden;
+	transform: translate3d(0, 0, 0);
+}
+.pt-page-current,
+.no-js .pt-page {
+	visibility: visible;
+}
+.no-js body 
+{   
+	overflow: auto; 
+}
+.pt-page-ontop 
+{   
+	z-index: 999; 
+}
+/* pt-perspective */
+.dangerS
+{
+	box-shadow: 35px 20px 45px 25px #f30;
+	-moz-box-shadow: 35px 20px 45px 25px #f30;
+	-webkit-box-shadow: 35px 20px 45px 25px #f30;
+}
+.warningS
+{
+	box-shadow:5px 5px 5px 5px #FC0;
+	-moz-box-shadow:5px 5px 5px 5px #FC0;
+	-webkit-box-shadow:5px 5px 5px 5px #FC0;
+}
+.img-desc
+{
+	width: 750px;
+	height: 550px;
+	top: 370px;
+	left: 1300px;
+	position: absolute;
+}
+.img-desc1
+{
+	width: 850px;
+	height: 850px;
+	top: 530px;
+	left: 1300px;
+	position: absolute;
+}
+.img-desc2
+{
+	width: 850px;
+	height: 850px;
+	top: 690px;
+	left: 1300px;
+	position: absolute;
+}
+.img-desc3
+{
+	width: 850px;
+	height: 850px;
+	top: 850px;
+	left: 1300px;
+	position: absolute;
+}
+div.img-desc 
+{
+    position: absolute;
+    width: 700px;
+    height: 3000px;
+}
+div.img-desc1 
+{
+    position: absolute;
+    width: 700px;
+    height: 3000px;
+}
+div.img-desc2 
+{
+    position: absolute;
+    width: 700px;
+    height: 3000px;
+}
+div.img-desc3 
+{
+    position: absolute;
+    width: 700px;
+    height: 3000px;
+}
+.img-desc cite
+{   position: absolute;
+    width: 500px;
+    height: 20px;
+    top: 140px;
+    left: 100px;
+}
+.img-desc1 cite
+{   position: absolute;
+    width: 500px;
+    height: 20px;
+    top: 140px;
+    left: 100px;
+}
+.img-desc2 cite
+{   position: absolute;
+    width: 500px;
+    height: 20px;
+    top:   140px;
+    left:  100px;
+}
+.img-desc3 cite
+{   position: absolute;
+    width: 500px;
+    height: 20px;
+    top:   140px;
+	left:  100px;
+}
